@@ -2,3 +2,8 @@
 test - playing around with prose.io
 
 where are my changes gone?
+
+Dillinger looks a bit cooler for online editing than prose.io. It offers a richter browser based interface with immediate preview ... if wanted
+
+# Heading
+Editing is a breeze no overhead.
