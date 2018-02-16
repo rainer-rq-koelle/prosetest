@@ -1,5 +1,12 @@
 # prosetest
 test - playing around with prose.io
+Several online markdown editor tested for this file:
+
+* [Dillinger](htttps://dillinger.io)
+* [Prose](prose.io)
+* [StackEdit](https://Stackedit.io/)
+
+
 
 where are my changes gone?
 
